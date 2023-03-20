@@ -26,6 +26,10 @@ body {
     text-decoration: none;
     box-sizing: border-box;
 }
+::-webkit-scrollbar {
+    display: none;
+}
+
 
 ::before,
 ::after {
@@ -69,6 +73,10 @@ select {
     opacity: 1;
     -webkit-animation: slideSection 1s ease;
     animation: slideSection 1s ease;
+}
+
+.card-blog{
+    margin-top: 5%;
 }
 
 @-webkit-keyframes slideSection {

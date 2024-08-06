@@ -6,4 +6,5 @@
 # 🤑Backend technologies like
 ## PHP, SQL, and Java.
 
-🔗 [Link](https://dnsue01.github.io/portfolio/)
+### Take a look 👀
+🔗 [My portfolio hehehe](https://dnsue01.github.io/portfolio/)

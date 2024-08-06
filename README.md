@@ -1,8 +1,8 @@
 # 🙌Welcome to my portfolio! 
 
-# 🐱‍🏍Full Stack Developer with a focus on 
-# 👾frontend development using 
-## Angular and React, as well as 
+# 🐱‍🏍Full Stack Developer 
+# 👾frontend development
+## Angular and React
 # 🤑Backend technologies like
 ## PHP, SQL, and Java.
 

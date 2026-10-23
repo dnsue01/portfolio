@@ -2459,3 +2459,22 @@ footer ul li {
         font-size: 0.75rem;
     }
 }
+
+/* --- Project card videos --- */
+.card-video {
+    width: 100% !important;
+    height: 220px !important;
+    object-fit: cover !important;
+    object-position: top center;
+    background-color: #111 !important;
+}
+
+.card-video:hover {
+    animation: none !important;
+}
+
+.card-video-contain {
+    object-fit: contain !important;
+    object-position: center;
+    background-color: #0e0c18 !important;
+}

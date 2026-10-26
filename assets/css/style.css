@@ -156,8 +156,6 @@ select {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
     position: relative;
 }
 
@@ -2477,4 +2475,18 @@ footer ul li {
     object-fit: contain !important;
     object-position: center;
     background-color: #0e0c18 !important;
+}
+
+@media (max-width: 768px) {
+    .stickers-layer {
+        display: none;
+    }
+}
+
+.setion-title p {
+    color: #5c5f66;
+}
+
+.client {
+    height: 100%;
 }

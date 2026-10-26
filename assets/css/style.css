@@ -2602,3 +2602,14 @@ html[lang="es"] .web.txt-rotate {
         max-height: 340px !important;
     }
 }
+
+.eduexp .company-subtitle .company-logo {
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    padding: 2px;
+    margin-right: 8px;
+}

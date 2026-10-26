@@ -2573,3 +2573,32 @@ html[lang="es"] .web.txt-rotate {
     font-size: 14.5px !important;
     margin-bottom: 0;
 }
+
+.titulo-grad {
+    width: fit-content;
+    background: linear-gradient(to right, #ff2e55, #ffa041);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+@media (max-width: 767px) {
+    #home .row {
+        flex-wrap: wrap !important;
+    }
+
+    #home .row > div {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    #home .row > div:last-child {
+        margin-top: 24px;
+    }
+
+    #home .img {
+        height: auto !important;
+        max-height: 340px !important;
+    }
+}

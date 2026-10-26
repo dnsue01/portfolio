@@ -1963,6 +1963,17 @@ footer ul li {
     filter: drop-shadow(0 15px 30px rgba(0, 153, 255, 0.15));
 }
 
+#home .img {
+    -webkit-mask-image: linear-gradient(to top, transparent 0, #000 22%), linear-gradient(to right, transparent 0, #000 12%, #000 88%, transparent 100%);
+    -webkit-mask-composite: source-in;
+    mask-image: linear-gradient(to top, transparent 0, #000 22%), linear-gradient(to right, transparent 0, #000 12%, #000 88%, transparent 100%);
+    mask-composite: intersect;
+}
+
+html[lang="es"] .web.txt-rotate {
+    font-size: 0.72em;
+}
+
 @keyframes floatHero {
     0% {
         transform: translateY(0px);

@@ -2663,3 +2663,27 @@ html[lang="es"] .web.txt-rotate {
         margin-top: auto !important;
     }
 }
+
+.profile-sm {
+    width: 120px;
+    height: 120px;
+}
+
+.bp-featured {
+    text-align: center;
+}
+
+.bp-featured .bp-role {
+    color: #888888;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.bp-featured .bp-role a {
+    color: var(--c-brand);
+}
+
+.bp-featured h6 {
+    font-size: 17px;
+    line-height: 1.7;
+}

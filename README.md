@@ -1,20 +1,9 @@
-# < ✌️ >, I'm Daniel Nsue Martinez </ ✌️> (dnsue01)
+# Daniel Nsue Martínez · Portfolio
 
-# 👨‍💻 **Full Stack Developer** 
+Portfolio personal de desarrollo web, diseño interactivo e infraestructura IT. Presenta trabajos seleccionados, trayectoria profesional y contacto.
 
-## 😎 Frontend
- - Angular
- - React 
- - TypeScript
- 
-## 💻 Backend 
-- PHP
-- SQL
-- Java
-- Android
-- C#
-  
-### 🚀 Passionate about building scalable and robust applications  
-### 🎨 Focus on clean, user-friendly interfaces  
-### 💡 "Programmer 4 Fun"  
-### 🌟 Open to  continuous learning
+[Visitar la web](https://dnsue01.github.io/portfolio/)
+
+## En el repositorio
+
+El sitio se publica como HTML estático. `index.html` contiene la página, con textos en español e inglés y recursos en `assets/`.
